@@ -1,14 +1,13 @@
 # Site settings
-title: Twenty Blog
+title: Atlantico Yoga Jeckyll Version
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+description: Yoga, Bray, Atlantico Yoga, yoga classes
+baseurl: "/atlanticoyoga" # the subpath of your site, e.g. /blog/
+url: "http://mpbarral.github.io/" # the base hostname & protocol for your site
 
+
+#User settings
+username: Maria Perez
+github_username:  mpbarral
 # Build settings
 markdown: kramdown
