@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+Twenty by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/mpbarral/atlanticoyoga/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
 
-### Markdown
+As the name implies, this is my twentieth (!) design for HTML5 UP. Since the last
+few have been single page affairs, I decided to go with something a bit more conventional
+and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
+built on HTML5/CSS3/skel, and CCA licensed like all my other stuff. Sass sources are
+also included for those of you into that sort of thing (entirely optional).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
+his excellent photos in Twenty's demo*.
 
-```markdown
-Syntax highlighted code block
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michael's work without his explicit permission!)
 
-# Header 1
-## Header 2
-### Header 3
+AJ
+n33.co @n33co dribbble.com/n33
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Credits:
 
-**Bold** and _Italic_ and `Code` text
+	Demo Images:
+		Michael Domaradzki (md.photomerchant.net)
+			"Night Vision"
+			"At the Station II"
+			"Airchitecture II"
+			"Livewires II"
+			"Midnite Xpress I"
 
-[Link](url) and ![Image](src)
-```
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpbarral/atlanticoyoga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
+		jquery.dropotron (n33.co)
+		jquery.scrolly (n33.co)
+		jquery.scrollgress (n33.co)
+		skel (n33.co)
