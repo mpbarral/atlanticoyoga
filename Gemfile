@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 #gem 'github-pages', group: :jekyll_plugins
-gem "Twenty Jekyll Theme"
+gem "Twenty-Jekyll-Theme"
