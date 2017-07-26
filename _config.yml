@@ -2,8 +2,8 @@
 title: Atlantico Yoga Jeckyll Version
 email: your-email@domain.com
 description: Yoga, Bray, Atlantico Yoga, yoga classes
-baseurl: "/atlanticoyoga" # the subpath of your site, e.g. /blog/
-url: "http://mpbarral.github.io/" # the base hostname & protocol for your site
+baseurl: "" #"/atlanticoyoga" # the subpath of your site, e.g. /blog/
+url: "" #"http://mpbarral.github.io/" # the base hostname & protocol for your site
 
 
 #User settings
