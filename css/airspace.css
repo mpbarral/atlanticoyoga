@@ -189,7 +189,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/beach.jpg") no-repeat;
+  background: url("../img/beach.JPG") no-repeat;
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -245,7 +245,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
- background: url("../img/beach.jpg") no-repeat;
+ background: url("../img/beach.JPG") no-repeat;
  background-position: 50% 94px;
 width: 100%;
 display: block;
