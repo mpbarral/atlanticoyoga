@@ -1,4 +1,4 @@
-# _Atlanticoyoga_ using _Airspace_ for Jekyll
+# _Atlanticoyoga Spanish version_ using _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
 This is the website of Atlanticoyoga and it is using ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
